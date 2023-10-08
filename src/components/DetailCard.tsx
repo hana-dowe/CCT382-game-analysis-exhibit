@@ -111,7 +111,7 @@ function DetailCard(props: Props) {
             <Typography>{console.createdBy}</Typography>
           </Box>
         </Grid>
-        <CardContent>
+        <CardContent sx={{ margin: '0 2rem' }}>
           <Container
             sx={{
               overflowY: 'auto',
@@ -158,6 +158,7 @@ function DetailCard(props: Props) {
                 flexDirection: 'column',
                 rowGap: '1rem',
                 paddingBottom: '1rem',
+                textAlign: 'initial',
               }}
             >
               {references.sort(sortReferences).map((r) => r.citation)}
