@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CCT382-game-analysis-exhibit/static/css/main.c55cacdb.css",
+    "main.js": "/CCT382-game-analysis-exhibit/static/js/main.d195339e.js",
+    "index.html": "/CCT382-game-analysis-exhibit/index.html",
+    "main.c55cacdb.css.map": "/CCT382-game-analysis-exhibit/static/css/main.c55cacdb.css.map",
+    "main.d195339e.js.map": "/CCT382-game-analysis-exhibit/static/js/main.d195339e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c55cacdb.css",
+    "static/js/main.d195339e.js"
+  ]
+}
